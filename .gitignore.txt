@@ -1,0 +1,4 @@
+#ignore these files
+handpose3d/figs
+handpose3d/data
+
